@@ -1,0 +1,62 @@
+Place Name,Location,Category,Description,Rating
+Rann of Kutch,Kutch District,Natural Landmark,"Vast salt marshes that transform into a white desert during the dry season.",4.8
+Somnath Temple,Veraval, Gir Somnath District,Religious Landmark,"Ancient Hindu temple dedicated to Lord Shiva, known for its spiritual significance and architecture.",4.7
+Gir National Park,Junagadh District,Wildlife Sanctuary,"Home to the Asiatic lions and various other wildlife species.",4.6
+Sabarmati Ashram,Ahmedabad,Historical Site,"Former residence of Mahatma Gandhi, showcasing his life and principles of non-violence.",4.5
+Dwarkadhish Temple,Dwarka, Devbhoomi Dwarka District,Religious Landmark,"Sacred Hindu temple dedicated to Lord Krishna, attracting pilgrims from all over the world.",4.5
+Statue of Unity,Kevadia, Narmada District,Monument,"World's tallest statue, honoring Vallabhbhai Patel, the first Deputy Prime Minister of India.",4.9
+Bhuj,Kutch District,City,"Vibrant city with historical sites, palaces, markets, and a gateway to the Great Rann of Kutch.",4.4
+Champaner-Pavagadh Archaeological Park,Panchmahal District,Archaeological Site,"UNESCO World Heritage Site featuring ancient ruins and a hill with a sacred shrine.",4.6
+Ahmedabad,Ahmedabad,City,"Cultural hub with historic architecture, bustling markets, museums, and vibrant festivals.",4.4
+Junagadh,Junagadh District,City,"Ancient city known for its historical monuments, including the Uparkot Fort and Girnar Hill.",4.3
+Saputara,Dang District,Hill Station,"Picturesque hill station offering scenic beauty, lakes, gardens, and trekking opportunities.",4.5
+Dholavira,Kutch District,Archaeological Site,"Ancient Harappan archaeological site showcasing the remains of an ancient Indus Valley Civilization.",4.7
+Patan,Patan District,Historical Site,"Former capital of Gujarat with ancient stepwells, temples, and intricately carved wooden houses.",4.4
+Surat,Surat,City,"Major commercial city known for its textile industry, diamond trade, and historical landmarks.",4.3
+Palitana,Bhavnagar District,Religious Site,"Sacred hill of Jain temples, visited by thousands of pilgrims, offering panoramic views from the top.",4.6
+Diu,Diu Island,Beach Destination,"Serene island known for its sandy beaches, historical forts, and Portuguese architecture.",4.5
+Nal Sarovar Bird Sanctuary,Ahmedabad District,Wildlife Sanctuary,"Wetland bird sanctuary attracting migratory birds, ideal for birdwatching and boating.",4.5
+Bhavnagar,Bhavnagar District,City,"Coastal city known for its maritime history, colorful markets, and cultural heritage.",4.2
+Gandhinagar,Gandhinagar,City,"Planned city serving as the capital of Gujarat, featuring modern infrastructure and peaceful ambiance.",4.2
+Porbandar,Porbandar District,City,"Birthplace of Mahatma Gandhi, known for its historical significance and coastal charm.",4.3
+Lothal,Ahmedabad District,Archaeological Site,"Ancient Indus Valley Civilization site showcasing well-preserved ruins and artifacts.",4.6
+Jamnagar,Jamnagar District,City,"Coastal city known for its grand palaces, temples, and the famous Marine National Park.",4.2
+Sun Temple, Modhera,Mehsana District,Temple,"Exquisite temple dedicated to the Sun God, known for its intricate carvings and architectural brilliance.",4.7
+Kankaria Lake,Ahmedabad,Lake,"Artificial lake offering boating, amusement rides, gardens, and a zoo in its surrounding area.",4.4
+Mandvi Beach,Kutch District,Beach Destination,"Scenic beach with pristine sand, water sports activities, and a historic shipbuilding yard nearby.",4.5
+Patola Silk Weaving,Patan District,Art and Craft,"Traditional silk weaving technique producing intricate Patola sarees, showcasing Gujarati craftsmanship.",4.6
+Vadodara,Vadodara,City,"Cultural city known for its palaces, museums, parks, and the grand Laxmi Vilas Palace.",4.4
+Kutch Museum,Bhuj, Kutch District,Museum,"Museum showcasing the art, culture, history, and artifacts of the Kutch region.",4.3
+Dandi Beach,Navsari District,Beach Destination,"Historical beach known for the Salt March led by Mahatma Gandhi during India's freedom struggle.",4.5
+Chamunda Mata Temple,Surendranagar District,Hindu Temple,"Sacred temple dedicated to Goddess Chamunda, known for its religious significance and architecture.",4.2
+Rani ki Vav,Patan District,Architectural Site,"Stepwell adorned with intricate carvings, recognized as a UNESCO World Heritage Site.",4.8
+Akshardham Temple, Gandhinagar,Gandhinagar,Hindu Temple,"Exquisite temple showcasing breathtaking architecture, intricate carvings, and spiritual ambiance.",4.9
+Adalaj Stepwell,Gandhinagar District,Architectural Site,"Magnificent stepwell known for its intricate architecture and the stories of its construction.",4.6
+Bardoli,Surat District,City,"Historical town associated with India's freedom struggle, known for its rich cultural heritage.",4.3
+Valsad,Valsad District,City,"Coastal town known for its beautiful beaches, historical temples, and cultural festivals.",4.2
+Porbandar Bird Sanctuary,Porbandar District,Wildlife Sanctuary,"Sanctuary home to a variety of bird species, offering birdwatching and nature exploration.",4.4
+Modhera Dance Festival,Mehsana District,Cultural Festival,"Annual dance festival held at the Sun Temple, showcasing classical and folk dances of Gujarat.",4.7
+Ambaji Temple,Banaskantha District,Hindu Temple,"Famous temple dedicated to Goddess Amba, visited by devotees for its religious significance.",4.5
+Pavagadh Hill,Panchmahal District,Pilgrimage Site,"Hill known for its religious significance and the ancient Kalika Mata Temple situated atop.",4.4
+Saputara Monsoon Festival,Dang District,Cultural Festival,"Vibrant festival celebrated during the monsoon season, featuring folk dances, music, and local traditions.",4.3
+Mandvi Shipbuilding Yard,Kutch District,Historical Site,"Traditional shipbuilding yard where wooden ships are constructed using traditional techniques.",4.6
+Mandvi Shipbuilding Yard,Kutch District,Historical Site,"Traditional shipbuilding yard where wooden ships are constructed using traditional techniques.",4.6
+Wankaner Palace,Rajkot District,Palace,"Grand palace known for its stunning architecture, exquisite interiors, and royal heritage.",4.5
+Kutch Desert Wildlife Sanctuary,Kutch District,Wildlife Sanctuary,"Wildlife sanctuary encompassing a diverse range of ecosystems, home to various wildlife species.",4.4
+Vadnagar,Mehsana District,City,"Ancient city known for its historical significance, ancient temples, and architectural heritage.",4.3
+Chhota Udepur,Vadodara District,City,"Scenic tribal town known for its tribal culture, colorful markets, and picturesque landscapes.",4.2
+Kalo Dungar,Kutch District,Hill Station,"Highest point in Kutch offering panoramic views of the Rann of Kutch and beautiful sunset vistas.",4.5
+Dabhoi,Vadodara District,City,"Historical town known for its ancient fort, stepwells, and intricate carvings on its monuments.",4.2
+Jambughoda Wildlife Sanctuary, Panchmahal District,Wildlife Sanctuary,"Lush green sanctuary known for its rich biodiversity, waterfalls, and nature trails.",4.3
+Gopi Talav,Surendranagar District,Architectural Site,"Historical stepped tank known for its impressive architecture and serene ambiance.",4.4
+Dumas Beach,Surat Beach Destination,"Scenic beach known for its black sand, beautiful sunsets, and a tranquil atmosphere.",4.1
+Ambaji-Pavagadh Rope Way,Panchmahal District,Adventure,"Rope-way ride offering panoramic views of the surrounding hills, temples, and lush greenery.",4.5
+Waghai Botanical Garden,Dang District,Garden,"Botanical garden known for its diverse collection of flora, nature trails, and picnic spots.",4.4
+Sardar Vallabhbhai Patel National Memorial,Ahmedabad Museum,"Memorial dedicated to Sardar Vallabhbhai Patel, showcasing his life, achievements, and contributions.",4.6
+Shri Swaminarayan Mandir, Gadhada,Botad District,Hindu Temple,"Sacred temple dedicated to Lord Swaminarayan, known for its spiritual significance and architecture.",4.7
+Kutchi Dabeli,Bhuj, Kutch District,Food,"Traditional Gujarati snack consisting of a spicy potato filling served in a bun, popular street food.",4.5
+Hodka Village,Kutch District,Cultural Village,"Traditional village known for its colorful handicrafts, cultural performances, and traditional mud houses.",4.3
+Nagina Wadi,Dwarka District,Beach Destination,"Beautiful beach known for its serene atmosphere, clear waters, and a lighthouse offering panoramic views.",4.4
+Gandhi Ashram, Kochrab,Ahmedabad,Historical Site,"Former residence of Mahatma Gandhi during his stay in Ahmedabad, promoting his principles of non-violence.",4.6
+Vautha Mela,Ahmedabad District,Cultural Festival,"Annual fair held at the confluence of two rivers, featuring livestock trading, cultural events, and festivities.",4.5
+Kutchi Mud Mirror Art,Bhuj, Kutch District,Art and Craft,"Traditional art form where mirrors are embedded into mud walls, creating intricate and reflective designs.",4.7
